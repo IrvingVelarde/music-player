@@ -1,0 +1,53 @@
+{
+  "songs":[
+          {
+            "id":0,
+            "nombre":"New Americana",
+            "artist":"Halsey",
+            "song":"music/New Americana.m4a",
+            "image":"img/newamericana.jpg"
+          },
+          {
+            "id":1,
+            "nombre":"Waves",
+            "artist":"Robin Schulz",
+            "song":"music/Waves.m4a",
+            "image":"img/waves.jpg"
+          },
+          {
+            "id":2,
+            "nombre":"Prayer in C",
+            "artist":"Robin Schulz",
+            "song":"music/Prayer in C.m4a",
+            "image":"img/prayerinc.png"
+          },
+          {
+            "id":3,
+            "nombre":"Thinking Out Loud",
+            "artist":"Robin",
+            "song":"music/Thinking Out Loud.m4a",
+            "image":"img/ed.png"
+          },
+          {
+            "id":4,
+            "nombre":"Faded",
+            "artist":"Alan Walker",
+            "song":"music/Faded.m4a",
+            "image":"img/faded.jpg"
+          },
+          {
+            "id":5,
+            "nombre":"I Took a Pill in Ibiza",
+            "artist":"",
+            "song":"music/I Took a Pill in Ibiza.m4a",
+            "image":"img/ibiza.png"
+          },
+          {
+            "id":6,
+            "nombre":"Cake By The Ocean",
+            "artist":"DNCE",
+            "song":"music/Cake By The Ocean.m4a",
+            "image":"img/ocean.jpg"
+          }
+  ]
+}
